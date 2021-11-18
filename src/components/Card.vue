@@ -33,7 +33,8 @@ export default defineComponent({
 <style lang="scss" scoped>
 .card {
   position: relative;
-  width: 370px;
+  width: 90%;
+  max-width: 370px;
   height: 200px;
   margin: 15px;
   @media screen and (max-width: 512px) {

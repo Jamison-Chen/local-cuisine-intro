@@ -32,7 +32,8 @@ export default defineComponent({
 #filter-menu {
   display: inline;
   height: 35px;
-  width: 300px;
+  width: 90%;
+  max-width: 300px;
   margin: 8px 15px;
   border: none;
   border-radius: 3px;
